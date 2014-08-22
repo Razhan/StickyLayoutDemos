@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="bg_header">#434343</color>
+    <color name="bg_sticky">#046d0e</color>
+    <color name="color_white">#fff</color>
+    <color name="color_black">#000</color>
+    
+</resources>

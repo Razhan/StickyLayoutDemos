@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="header_height">200dp</dimen>
+    <dimen name="sticky_height">60dp</dimen>
+    
+    <!-- header_height + sticky_height -->
+    <dimen name="headerview_height">260dp</dimen>
+    
+    <dimen name="txt_header_size">16sp</dimen>
+    <dimen name="txt_sticky_size">16sp</dimen>
+    
+    <dimen name="padding_sticky">20dp</dimen>
+
+</resources>
